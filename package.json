@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dethdoll/tic-tac-toe-game.git",
+  "author": "Monica Salamanca <moni.salamanca@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp"
+  },
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.22.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
