@@ -2,7 +2,7 @@
   "name": "workspace",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:dethdoll/tic-tac-toe-game.git",
+  "repository": "git@github.com:monicasalamanca/tic-tac-toe-game.git",
   "author": "Monica Salamanca <moni.salamanca@gmail.com>",
   "license": "MIT",
   "scripts": {
